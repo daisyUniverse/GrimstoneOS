@@ -1,20 +1,18 @@
 # Discraft HD
 
-##### Dark Minecraft UI
+##### Dark Minecraft UI 
+
+Discraft is a Minecraft full GUI replacement that closely follows the design cues of Discord through the use of its color palette and I try to emulate its smooth SVG edges by using a relatively high resolution for a GUI pack
 
 
 
-Discraft is a Minecraft full GUI replacement that closely follows the design cues of Discord through the use of its color palette and I try to emulate its smooth SVG edges by using a reletively high resolution for a GUI pack
+Current supported version is **1.16.4**
 
 
 
-**Screenshots**
+![](https://media.discordapp.net/attachments/439587039873204224/779925588412596234/unknown.png)
 
-![multi](screenshots/multi.png)
-
-**![inv](screenshots/inv.png)**
-
-![jei2](screenshots/jei2.png)
+![](https://static.planetminecraft.com/files/resource_media/screenshot/1921/img-2019-05-25-012833-1558766166.png)
 
 
 
@@ -29,6 +27,14 @@ Discraft is a Minecraft full GUI replacement that closely follows the design cue
 - **Appleskin / AppleCore**
 - **Actually Additions**
 - **RFTools**
+
+
+
+![multi](screenshots/multi.png)
+
+**![inv](screenshots/inv.png)**
+
+![jei2](screenshots/jei2.png)
 
 
 
@@ -61,5 +67,3 @@ I like dark themes, I know how to use gimp, and tedious work is relaxing.
 ![light](screenshots/light.png)
 
 ![light2](screenshots/light2.png)
-
-![light3](screenshots/light3.png)
