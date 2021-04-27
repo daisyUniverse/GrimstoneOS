@@ -1,19 +1,30 @@
-# Discraft HD
+# GrimstoneOS
 
 ##### Dark Minecraft UI 
 
-Discraft is a Minecraft full GUI replacement that closely follows the design cues of Discord through the use of its color palette and I try to emulate its smooth SVG edges by using a relatively high resolution for a GUI pack
+GrimstoneOS is a Minecraft full GUI replacement that closely follows the design cues of Discord through the use of its color palette and I try to emulate its smooth SVG edges by using a relatively high resolution for a GUI pack
+
+Current supported version is **1.16.5**
+
+**Every GUI menu replaced:**
+![main](screenshots/main.png)
+I've put a lot of work into making sure that every single container element in the game has been replaced using as consistent a design language as I can manage
 
 
 
-Current supported version is **1.16.4**
+**Main Menu:**
+
+![mainmenu](screenshots/mainmenu.png)
+
+I found a way to create some interesting effects on the main menu ( Turns out you can rescale the panorama_overlay file, and it's not forced to be opaque, so the file that's normally responsible for putting that gross white gradient over the panorama can be used to make some interesting graphics, ie this sweeping rainbow animation in the background )
 
 
 
-![](https://media.discordapp.net/attachments/439587039873204224/779925588412596234/unknown.png)
+**Custom Font:**
 
-![](https://static.planetminecraft.com/files/resource_media/screenshot/1921/img-2019-05-25-012833-1558766166.png)
+![font](screenshots/font.png)
 
+this is something I have worked on, implemented in various texture packs going all the way back to 2013 - and I FINALLY can say that I am actually happy with it. I hope that comes through
 
 
 **Mod Support:**
@@ -40,7 +51,7 @@ Current supported version is **1.16.4**
 
 **Whats up with the name?**
 
-​	It's heavily inspired by the design language and palette of Discord, and its reletively catchy. I did later find out that there is an existing mod for minecraft also called discraft, so I will likely need to change the name at some point, but at this point it would be a bit of pain to do so I'm waiting until I get something really good.
+​	The name of this resource pack used to be *Discraft HD* but I have since found a better sounding name that is not taken, I had a poll on twitter to find what variant sounded the best and ultimated that is how I landed on GrimstoneOS
 
 
 

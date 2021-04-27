@@ -1755,6 +1755,7 @@
   "container.grindstone_title": "§fRepair & Disenchant",
   "container.cartography_table": "§fCartography Table",
   "container.stonecutter": "§fStonecutter",
+  "container.upgrade": "§fUpgrade Gear",
   "structure_block.invalid_structure_name": "Invalid structure name '%s'",
   "structure_block.save_success": "Structure saved as '%s'",
   "structure_block.save_failure": "Unable to save structure '%s'",
